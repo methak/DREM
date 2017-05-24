@@ -1,10 +1,10 @@
---[[                                    Dev @lIMyIl         
-   _____    _        _    _    _____    Dev @EMADOFFICAL 
-  |_   _|__| |__    / \  | | _| ____|   Dev @h_k_a  
-    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @IX00XI
-    | |\__ \ | | |/ ___ \|   <| |___    Dev @H_173
-    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @lIESIl
-              CH > @TshAkETEAM
+--[[                                          
+  
+       Dev @saad7m 
+        Dev @oollmlloo
+         Dev @saad7m_bot
+          Dev @misagh_hardani_bot
+            CH > @Asayelelarab
 --]]
 serpent = require('serpent')
 serp = require 'serpent'.block
