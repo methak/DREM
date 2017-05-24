@@ -2,7 +2,7 @@
 
 #DEV : @oollmlloo
 
-● DREM BOT |🦁
+● DREM BOT |
 
 ● BEST BOT ON TELEGRAM ●
 
@@ -38,5 +38,6 @@ redis-server
 
 ● و مبروك نصبت سورس دريم بتيجي جديد وبميزات جديده ❤️ ❖--------------------------------❖
 
+DEVLOPER : @oollmlloo
 BOT TEAM : @misagh_hardani_bot
 CH TEAM : @Asayelelarab
